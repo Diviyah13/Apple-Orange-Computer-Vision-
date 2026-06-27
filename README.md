@@ -93,6 +93,9 @@ Architecture includes:
 * Dropout
 * Sigmoid Output
 
+## Custom CNN
+
+![CNN](images/CNN.png)
 ---
 
 ### 3. MobileNetV2 (Transfer Learning)
@@ -101,6 +104,9 @@ A pretrained MobileNetV2 model was fine-tuned for binary fruit classification.
 
 Transfer learning significantly reduced training time while achieving excellent classification performance.
 
+## Custom CNN
+
+![CNN](images/MobileNet.png)
 ---
 
 ## Object Detection Models
