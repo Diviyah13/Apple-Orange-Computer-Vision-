@@ -1,4 +1,4 @@
-# 🍎 Apple vs Orange Computer Vision
+#  Apple vs Orange Computer Vision
 
 A comprehensive computer vision project comparing **traditional machine learning**, **deep learning**, **transfer learning**, and **object detection** techniques for fruit recognition.
 
