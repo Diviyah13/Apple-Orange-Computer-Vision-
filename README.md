@@ -79,9 +79,6 @@ Represents a traditional machine learning pipeline without deep learning.
 
 ---
 
-## Support Vector Machine
-
-![SVM](images/svm.png)
 
 ### 2. Custom Convolutional Neural Network (CNN)
 
@@ -108,12 +105,18 @@ Transfer learning significantly reduced training time while achieving excellent 
 ### YOLOv8
 
 Single-stage detector optimized for real-time detection.
+## YOLOv8
+
+![YOLO](images/yolo_detection.png)
 
 ---
 
 ### SSD Lite
 
 Lightweight detector suitable for edge devices.
+## SSD
+
+![SSD](images/ssd_detection.png)
 
 ---
 
