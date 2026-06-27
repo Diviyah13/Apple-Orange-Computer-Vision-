@@ -123,7 +123,9 @@ Lightweight detector suitable for edge devices.
 ### Faster R-CNN
 
 Two-stage detector providing higher localization accuracy at the expense of inference speed.
+## Faster R-CNN
 
+![FasterRCNN](images/fasterrcnn_detection.png)
 ---
 
 ## Technologies Used
