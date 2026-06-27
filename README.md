@@ -153,6 +153,9 @@ Two-stage detector providing higher localization accuracy at the expense of infe
 | Custom CNN  | 100%     |
 | MobileNetV2 | 100%     |
 
+## Model Comparison
+
+![Comparison](images/comparison chart.png)
 ---
 
 ### Detection
