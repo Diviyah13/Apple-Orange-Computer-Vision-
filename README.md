@@ -79,6 +79,10 @@ Represents a traditional machine learning pipeline without deep learning.
 
 ---
 
+## Support Vector Machine
+
+![SVM](images/svm.png)
+
 ### 2. Custom Convolutional Neural Network (CNN)
 
 Architecture includes:
