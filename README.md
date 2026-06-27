@@ -77,6 +77,9 @@ Purpose:
 
 Represents a traditional machine learning pipeline without deep learning.
 
+## Support Vector Machine
+
+![SVM](images/SVM.png)
 ---
 
 
@@ -153,9 +156,6 @@ Two-stage detector providing higher localization accuracy at the expense of infe
 | Custom CNN  | 100%     |
 | MobileNetV2 | 100%     |
 
-## Model Comparison
-
-![Comparison](images/comparison chart.png)
 ---
 
 ### Detection
